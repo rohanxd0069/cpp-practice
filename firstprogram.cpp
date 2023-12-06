@@ -20,5 +20,5 @@ int main()
 	cout << "Enter the number: ";
 	cin >> num;
 	int ans = factorial(num);
-	cout << "The factorial of " << num << "is " << ans << endl;
+	cout << "The factorial of " << num << "is  " << ans << endl;
 }
